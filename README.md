@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devjavedmohd
 - 👀 I’m interested in Front End Development 
-- 🌱 I’m currently learning DevOps, Kubernetes
+- 🌱 I’m currently learning DevOps, Kubernetes & React
 - 💞️ I’m looking to collaborate on Open Source project 
 - 📫 How to reach me dev.javedmohd@gmail.com
 
