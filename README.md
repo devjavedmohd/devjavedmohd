@@ -22,8 +22,6 @@ I work as a Front-end Developer 👩‍💻 with a passion for crafting beautifu
 - 💞️ I’m looking to collaborate on Open Source project 
 - 📫 Reach me @dev.javedmohd@gmail.com
 
-<img style="float: right;" width="20%" src="https://user-images.githubusercontent.com/54095539/166498952-7f6483dc-66b5-4eb9-a8cf-16f849b07ebe.gif">
-
 #### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
