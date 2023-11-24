@@ -11,7 +11,7 @@ I work as a Front-end Developer 👨‍💻with a passion for crafting beautiful
 
 - 👋 Hi, I’m @devjavedmohd
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Front End Dev | Data Analytics | Data Science | Business Intelligence | Python | SQL | Power BI | Excel & React - And I'm sharing my new learnings on my personal [blog](https://mjaved.in). In future will start learning Data Science and Analytics.
+- 🌱 I’m currently learning Data Analytics | Data Science | Business Intelligence | Python | SQL | Power BI | Excel & React - And I'm sharing my new learnings on my personal [blog](https://mjaved.in). In future will start learning Data Science and Analytics.
 - ✈️ Hire me for freelancing :)
 - 🔭 I’m always trying to grow and learn something new.
 - ⛵ 2024 Goals: Rockstar Data Analytics | Data Science 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
