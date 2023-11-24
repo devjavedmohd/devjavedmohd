@@ -10,11 +10,11 @@ I work as a Front-end Developer 👨‍💻with a passion for crafting beautiful
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 
 - 👋 Hi, I’m @devjavedmohd
-- 👀 I’m interested in Front End Development 
-- 🌱 I’m currently learning Python, DevOps, Kubernetes & React - And I'm sharing my new learnings on my personal [blog](https://mjaved.in). In future will start learning Data Science and Analytics.
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning Front End Dev | Data Analytics | Data Science | Business Intelligence | Python | SQL | Power BI | Excel & React - And I'm sharing my new learnings on my personal [blog](https://mjaved.in). In future will start learning Data Science and Analytics.
 - ✈️ Hire me for freelancing :)
 - 🔭 I’m always trying to grow and learn something new.
-- ⛵ 2023 Goals: Rockstar speaker 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
+- ⛵ 2024 Goals: Rockstar Data Analytics | Data Science 🙊, sharing my knowledge through electrifying talks ⚡️, traveling to uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game in everything I do!
 - 📫 I share software discoveries and inconveniences of my life on [Twitter](https://twitter.com/devjavedmohd).
 - ⚡ Facts about me: I love listening to [lofi](https://www.lofibolly.club/) beats and groovy 90s tunes while unleashing my creativity on my iPad, and love indulging in movie and series binges!
 - 💻 I’m looking to collaborate on Open Source project 
