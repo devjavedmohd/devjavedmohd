@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm working as a Front-end Developer 👨‍💻 with a passion for crafting beautiful user experiences & learning Data Science and Analytics 🍕.
 <br>
-<img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif">
+<!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Data Analytics | Data Science | Business Intelligence | Python | SQL | Power BI | Excel & React - And I'm sharing my new learnings on my personal [blog](https://mjaved.in). In future will start learning Data Science and Analytics.
 - ✈️ Hire me for freelancing :)
