@@ -32,7 +32,6 @@ I work as a Front-end Developer 👨‍💻with a passion for crafting beautiful
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_nextjs.png?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/54095539/120929781-09063680-c708-11eb-864d-8f586ef91fec.png"></code>
