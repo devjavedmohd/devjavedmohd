@@ -3,7 +3,7 @@
 devjavedmohd/devjavedmohd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hey 👋, I am [Mohd Javed](https://mjaved.in)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
+## Hey 👋, I am [Mohd Javed](https://linkedin.com/in/javedrhul)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 I'm working as a Software Engineer 👨‍💻 with a passion for crafting beautiful user experiences & learning Data Science and Analytics 🍕.
 <br>
