@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m always striving to grow and learn something new.
 <!---
 - ⛵ 2024 Goals: Rockstar in Data Analytics and Data Science 🙊, sharing my knowledge through electrifying talks ⚡️, exploring uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game to everything I do!
-- 📫 I share software discoveries and life updates on Twitter.--->
+- 📫 I share software discoveries and life updates on Twitter.
+--->
 - 💻 Looking to collaborate on open-source projects.
 - 📫 Reach me at dev.javedmohd@gmail.com.
 
