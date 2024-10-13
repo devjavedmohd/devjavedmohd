@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 - ⛵ 2024 Goals: Rockstar in Data Analytics and Data Science 🙊, sharing my knowledge through electrifying talks ⚡️, exploring uncharted territories to feed my wanderlust 🪄, and consistently bringing my A-game to everything I do!
 - 📫 I share software discoveries and life updates on Twitter.
 <!-- <img align="right" width="46%" src="https://user-images.githubusercontent.com/54095539/121063155-95d1f280-c7e3-11eb-8087-a54e5dbc6a1f.gif"> -->
---->
+
 ## Hey 👋, I am [Mohd Javed](https://linkedin.com/in/javedrhul)[<img width="3%" src="https://user-images.githubusercontent.com/54095539/126079328-4b402dcb-b1fb-4988-b75f-25e24d048d60.gif">](https://www.lofibolly.club/)
 
 👨‍💻 I'm a Software Engineer with a passion for crafting beautiful user experiences and learning Data Science and Analytics.
